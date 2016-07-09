@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+_Name=Simple Digital Clock
+Type=Application
+X-AWN-Type=Applet
+X-AWN-AppletType=Python
+_Comment=Digital clock that displays date and/or time using strftime format.
+Exec=awn-applet -p %k
+X-AWN-AppletExec=simple-digital-clock/simple-digital-clock.py
+Icon=awn-applet-digital-clock
+X-AWN-AppletCategory=Utility,Clock

@@ -92,6 +92,7 @@ SUBDIRS = \
 	maintained/mount \
 	maintained/places \
 	maintained/quit \
+	maintained/simple-digital-clock \
 	maintained/slickswitcher \
 	maintained/shiny-switcher \
 	maintained/sysmon \

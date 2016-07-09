@@ -1,0 +1,9 @@
+[DEFAULT/time_format]
+type = string
+default = %H:%M:%S
+_description=Displayed time/date format. See strftime.
+
+[DEFAULT/refresh_interval]
+type = integer
+default = 200
+_description=Interval between refresh (ms).
